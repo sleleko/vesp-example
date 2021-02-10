@@ -1,2 +1,3 @@
 .idea
 core/vendor
+/core/.env
